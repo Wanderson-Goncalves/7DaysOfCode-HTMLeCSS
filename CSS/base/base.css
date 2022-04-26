@@ -1,0 +1,34 @@
+@import url(_reset.css);
+@import url(_reset.css);
+
+body{
+
+    font-family: var(--tipografia);
+    font-size: 16px;
+    font-weight: var( --peso-texto-corrido);
+    color: var(--cor-texto-corrido);
+    line-height: 24px;
+
+}
+.container{
+
+    max-width: 1440px;
+    margin: auto;
+    background-color: var( --cor-fundo);
+}
+
+.tiulo{
+
+    font-size: var(--tamanho-titulo);
+    line-height: 28px;
+}
+
+.titulo-destaque{
+
+    font-size: var(--tamanho-texto-destaque);
+    font-weight: var(--peso-destaque);
+    color: var(--cor-texto-destaque);
+    line-height: 72px;
+
+}
+

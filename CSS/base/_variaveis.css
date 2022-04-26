@@ -1,0 +1,20 @@
+:root{
+
+    --cor-titulo: #101828;
+    --cor-texto-destaque: #8E2424;
+    --cor-texto-corrido: #667085;
+    --cor-fundo: #F9FAFB;
+    --branco: #fff;
+
+    --tipografia:  'Inter', sans-serif;
+
+    --peso-titulo:500;
+    --peso-destaque: 600;
+    --peso-texto-corrido: 400;
+
+    --tamanho-titulo: 18px;
+    --tamanho-texto-destaque: 60px;
+    --tamanho-texto-corrido: 16px;
+
+}
+
