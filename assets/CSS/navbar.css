@@ -11,6 +11,11 @@
     display: flex;
     gap: 5px;
 }
+.logotipo{
+    font-size: var(--tamanho-titulo);
+    font-weight: var(  --peso-titulo);
+    color: #3A404E ;
+}
 
 .links {
     display: flex;

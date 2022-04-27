@@ -1,0 +1,25 @@
+.cabecalho {
+    height: 407px;
+    display: flex;
+    flex-direction: column;
+    padding: 6rem 0rem;
+    text-align: center;
+    justify-content: space-evenly;
+
+}
+
+.content {
+
+    font-size: 16px;
+    font-weight: var(--peso-destaque);
+    color: var(--cor-texto-destaque);
+}
+.content-destaque{
+
+  
+
+    font-size: 48px;
+    color:var(--cor-titulo);
+    display: block;
+    line-height: 60px;
+}
