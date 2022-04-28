@@ -1,0 +1,14 @@
+.metricas{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-bottom: 6rem;
+   
+}
+.card-metricas{
+   
+    max-width: 280px;
+    box-sizing: border-box;
+    text-align: left;
+
+}
