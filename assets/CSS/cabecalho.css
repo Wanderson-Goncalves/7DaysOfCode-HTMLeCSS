@@ -10,16 +10,14 @@
 
 .content {
 
-    font-size: 16px;
+    font-size: var( --tamanho-texto-corrido);
     font-weight: var(--peso-destaque);
     color: var(--cor-texto-destaque);
 }
-.content-destaque{
+.content-destaque{  
 
-  
-
-    font-size: 48px;
+    font-size: 3rem;
     color:var(--cor-titulo);
     display: block;
-    line-height: 60px;
+    line-height: var(--tamanho-texto-destaque);
 }

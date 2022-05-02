@@ -1,0 +1,47 @@
+.depoimento {
+        padding: 0 2rem;
+        flex-direction: column;
+        align-items: center;
+        margin: 2rem 0;
+        padding-bottom: 96px;
+
+    }
+
+    .texto-depoimento {
+        text-align: center;
+        font-size: 14px;
+        color: var(--cor-texto-destaque);
+        font-weight: var(--peso-destaque);
+        line-height: 1.3rem;
+        margin: 1rem 0;
+
+    }
+
+    .destaque-depoimento {
+        font-size: 2.25rem;
+        font-weight: var(--peso-titulo);
+        color: var(--cor-titulo);
+        line-height: 2.75rem;
+        margin: 1rem 0;
+        display: block;
+
+    }
+    .depoente{
+    margin: 1rem 0;
+        text-align: center;
+    }
+    .avatar-depoente{
+        margin-top: 2rem;
+
+    }
+    .nome-depoente{
+        font-size: 1rem;
+        font-weight: var(--peso-titulo);
+        line-height: 1.5rem;
+        color: var(--cor-titulo);
+        margin: 0.25rem 0;
+    }
+    .depoente p{
+        font-size: 0.875rem;
+        line-height: 1.25rem;
+    }

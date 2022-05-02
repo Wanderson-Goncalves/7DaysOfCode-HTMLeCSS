@@ -12,9 +12,10 @@
     --peso-destaque: 600;
     --peso-texto-corrido: 400;
 
-    --tamanho-titulo: 1.125rem;
-    --tamanho-texto-destaque: 3.75rem;
-    --tamanho-texto-corrido: 1rem;
+    --tamanho-titulo: 1.125rem;/*18px*/
+    --tamanho-texto-destaque: 3.75rem;/*60px*/
+    --tamanho-texto-corrido: 1rem;/*16px*/
+    
 
 }
 
